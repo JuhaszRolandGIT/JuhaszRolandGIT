@@ -2,7 +2,7 @@
 **Juhász Roland**
 
 **Welcome my GitHub profile!** Look around among my different projects!
-![alt text](https://www.autonavigator.hu/wp-content/uploads/2018/01/212593_source.jpg)
+![alt text](http://www.kepfeltoltes.eu/images/2023/12/15/136projects_concept_black_tn.jpg)
 
 <!---
 JuhaszRolandGIT/JuhaszRolandGIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
