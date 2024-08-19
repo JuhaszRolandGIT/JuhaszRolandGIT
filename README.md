@@ -1,7 +1,7 @@
 # Hi there 👋
 **Juhász Roland**
 
-**Welcome my GitHub profile!** Look around among my different projects!
+**Welcome my GitHub profile!** Look around among my different projects ;) !
 <!---![alt text]()
 
 
